@@ -1,0 +1,25 @@
+GRUPPO VOLONTARI BURKINA ETS – SITO WEB
+
+File principali:
+- index.html: homepage
+- sostegni-a-distanza.html, acqua-e-pozzi.html, salute-e-cure.html, disabilita.html, alimentazione-e-scuola.html, lavoro-e-autonomia.html: pagine dei progetti
+- 5x1000.html: pagina dedicata al 5x1000
+- donazioni.html: coordinate e contatti
+- style.css: grafica comune
+
+PUBBLICAZIONE CON GITHUB PAGES
+1. Crea un repository GitHub, ad esempio gruppo-volontari-burkina.
+2. Carica tutti i file e le pagine contenuti in questa cartella nella cartella principale del repository.
+3. Apri Settings > Pages.
+4. In Build and deployment seleziona Deploy from a branch, branch main e cartella /(root), quindi salva.
+5. Attendi la pubblicazione: GitHub mostrerà l'indirizzo pubblico del sito.
+
+DA COMPLETARE PRIMA DELLA PUBBLICAZIONE
+- Sostituire i riquadri fotografici con fotografie dell'associazione, verificando di avere i consensi necessari.
+- Integrare la storia dell'associazione e testimonianze verificate.
+- Aggiornare i dati dei risultati, attualmente riferiti al 2025.
+- Verificare i recapiti e le coordinate bancarie prima della messa online.
+- Verificare il dettaglio della rendicontazione 5x1000: il totale di 17.367,73 euro indicato nella lettera non coincide con la somma delle singole voci (17.365,00 euro). Il sito riporta solo il totale e segnala la verifica.
+- Aggiungere informativa privacy e cookie adeguata agli strumenti effettivamente utilizzati.
+
+Il sito è statico: non richiede database né servizi a pagamento per l'hosting su GitHub Pages.
