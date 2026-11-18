@@ -2,7 +2,7 @@ GRUPPO VOLONTARI BURKINA ETS – SITO WEB
 
 File principali:
 - index.html: homepage
-- sostegni-a-distanza.html, acqua-e-pozzi.html, salute-e-cure.html, disabilita.html, alimentazione-e-scuola.html, lavoro-e-autonomia.html: pagine dei progetti
+- sostegni-a-distanza.html, acqua-e-pozzi.html, salute-e-cure.html, disabilita.html, adozioni-scolastiche.html, lavoro-e-autonomia.html: pagine dei progetti
 - 5x1000.html: pagina dedicata al 5x1000
 - donazioni.html: coordinate e contatti
 - style.css: grafica comune
